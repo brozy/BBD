@@ -1,0 +1,11 @@
+<!doctype HTML>
+<html>
+<head>
+<title>Blokuojama!</title>
+</head>
+<body>
+<h1 style="text-align: center;">&nbsp;</h1>
+<h1 style="text-align: center;"><strong>Blokuojama!<br /><br /></strong><strong><img src="photos/stop.png" onerror="STOP_PHOTO" alt="STOP" style="width:128px;height:128px;" />&nbsp;<br /><br />Blokajuoma Raspbery Pi Firewall ugniasienes<br /><a title="Google" href="http://www.google.com">www.google.com</a></strong></h1>
+<h1 style="text-align: center;"><strong>&nbsp;</strong></h1>
+</body>
+</html>

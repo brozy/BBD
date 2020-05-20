@@ -1,0 +1,22 @@
+.main-container{
+	text-align: center;	
+}
+
+.stop-img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+}
+
+.redirect-btn{
+	background: green;
+	border: none;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+.redir-google{
+	text-decoration: none;
+	color: white;
+}
